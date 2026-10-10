@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../HelpDesk.Console/HelpDesk.Console.csproj" Id="f5aa2362-d33c-4448-82de-6f34cb817342" />
+  <Project Path="HelpDesk.Core.csproj" />
+</Solution>
