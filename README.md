@@ -45,13 +45,11 @@ O projeto nasceu como uma forma de praticar **desenvolvimento de sistemas** e **
 - [ ] 📈 **Painel** com resumo dos chamados
 - [ ] 📄 **Relatórios** em PDF
 
-> ✏️ *Marque com [x] só o que já está pronto no seu projeto e apague o que não existir.*
 
 ---
 
 ## 🖼️ Telas
 
-> Adicione aqui as capturas de tela do app (veja a dica no final do arquivo).
 
 <div align="center">
 
